@@ -1,6 +1,5 @@
 # EQIPO
-Electrostatic Quantum Inspired Path Optimization (Autonomous Navigation) for UAVs
-Below is a comprehensive README file for the **Electrostatic Quantum-Inspired Path Optimization (EQIPO) for UAV Path Planning** project. This README provides an overview of the project, its features, requirements, installation steps, usage instructions, configuration details, examples, troubleshooting tips, and contribution guidelines. It is designed to help users and developers understand and work with the system effectively.
+Electrostatic Quantum Inspired Path Optimization (Autonomous Navigation) for UAVs.
 
 ---
 
