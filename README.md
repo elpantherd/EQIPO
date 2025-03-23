@@ -47,8 +47,8 @@ To run this project, you will need:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/eqipo.git
-   cd eqipo
+   git clone https://github.com/elpantherd/EQIPO.git
+   cd EQIPO
    ```
 
 2. **Install dependencies:**
