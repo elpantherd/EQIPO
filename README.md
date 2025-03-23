@@ -1,5 +1,5 @@
 # EQIPO
-Electrostatic Quantum Inspired Path Optimization (Autonomous Navigation) for UAVs.
+Electrostatic Quantum Inspired Path Optimization (Autonomous Navigation) for UAVs. This project is still under further refinement and optimization for high level expected performances
 
 ---
 
