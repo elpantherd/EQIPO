@@ -140,23 +140,13 @@ For **real hardware**:
 - **MAVLink connection issues:** Verify the serial port and baud rate in the connection string.
 
 ---
-
-## Contributing
-
-Contributions are welcome! Please submit pull requests or open issues on the [GitHub repository](https://github.com/yourusername/eqipo).
-
----
-
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
+## Licensing
+This software is proprietary and not open source. Please see the [LICENSE](LICENSE) file for terms of use.
 
 ---
 
 ## Contact Information
 
-For questions or support, contact [Your Name] at [your.email@example.com].
+For questions or support, contact TEAM QUASARS at [dthayalan760@gmail.com].
 
 ---
-
-This README provides all the necessary information to get started with the EQIPO navigation system. The code is heavily commented and includes extensive logging to aid in debugging and understanding the system's operation. Enjoy using EQIPO for your UAV path planning needs!
