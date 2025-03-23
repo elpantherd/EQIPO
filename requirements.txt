@@ -1,0 +1,3 @@
+numpy
+scipy  # Optional: for grid smoothing
+pymavlink  # Optional: for real hardware
