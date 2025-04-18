@@ -33,7 +33,7 @@ The system is designed to run on a **Raspberry Pi** as a companion computer, int
 
 To run this project, you will need:
 
-- A **Raspberry Pi** (tested with Raspberry Pi 4 Model B).
+- A **Raspberry Pi** (tested with Raspberry Pi 5 8GB).
 - A **Pixhawk flight controller** (e.g., Pixhawk 2.4.8) for real hardware deployment.
 - **TENG sensors** connected via ADC channels for real hardware.
 - **Python 3.7** or higher.
