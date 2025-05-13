@@ -48,7 +48,6 @@ To run this project, you will need:
 
    ```bash
    git clone https://github.com/elpantherd/EQIPO.git
-   cd EQIPO
    ```
 
 
