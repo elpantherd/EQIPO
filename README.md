@@ -51,11 +51,6 @@ To run this project, you will need:
    cd EQIPO
    ```
 
-2. **Install dependencies:**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
 
    > **Note**: For real hardware, ensure `pymavlink` is installed. For simulation, it is optional.
 
